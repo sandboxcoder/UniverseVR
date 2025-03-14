@@ -1,12 +1,6 @@
 ## About
 
-Sample Unreal FPS project. Currently, this is based on the FPS UnrealProject template.
-
-## Unreal Editor - Exiting the Simulation
-
-Go to Editor Preferences -> Keyboard Shortcuts -> Find "Play World" and change key of "Stop Simulation" from Esc to something else.
-Personally, I bound this to the "END" key on my Windows keyboard. This way when you hit ESC ingame
-you'll see the Pause menu.
+Currently, this is based on the VR template.
 
 ## Unreal Engine version
 
