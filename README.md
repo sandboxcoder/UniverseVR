@@ -1,6 +1,6 @@
 ## About
 
-Currently, this is based on the VR template.
+Currently, this is based on the VR template. Planning to pull over my frontend changes from [ZuonFPS](https://github.com/sandboxcoder/UnrealFPS)
 
 ## Unreal Engine version
 
